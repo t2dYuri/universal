@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails universal: development" uuid="a97ecac5-d388-48d2-b50e-c7383c17891a">
+      <user-name>universal</user-name>
+      <user-password>dffadf9adfc6dfc3dfc1dfdadfc5dfc6</user-password>
+      <schema-pattern>universal_development.pg_catalog universal_development.public</schema-pattern>
+      <default-schemas>universal_development.pg_catalog universal_development.public</default-schemas>
+    </data-source>
+    <data-source name="Rails universal: test" uuid="f9bb627f-76a9-4796-9b3d-59d41343db70">
+      <user-name>universal</user-name>
+      <user-password>dffadf9adfc6dfc3dfc1dfdadfc5dfc6</user-password>
+      <schema-pattern>universal_test.pg_catalog universal_test.public</schema-pattern>
+      <default-schemas>universal_test.pg_catalog universal_test.public</default-schemas>
+    </data-source>
+    <data-source name="Rails universal: production" uuid="00f1adb5-56dd-43ea-8d87-4192d3dfbdba">
+      <first-sync>true</first-sync>
+      <user-name>universal</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfffdfe4dfe3dffcdfefdff8dff9dfebdfe6dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
